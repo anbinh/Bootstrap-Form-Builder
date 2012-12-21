@@ -1,7 +1,7 @@
-#Bootstrap Form Builder
-
-Hosted on heroku [here](http://bootstrap-forms.heroku.com).
+# Bootstrap Form Builder
 
 Drag and drop form builder for twitter bootstrap.
 
-Everything is in /public.
+Hosted on [GitHub Pages](http://nfvs.github.com/Bootstrap-Form-Builder).
+
+(Original hosted on heroku [here](http://bootstrap-forms.heroku.com)).
