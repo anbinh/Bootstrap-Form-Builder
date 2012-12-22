@@ -30,3 +30,8 @@ body {
 #source{
   min-height: 500px;
 }
+
+#navtab > li > a {
+  padding-right: 9px;
+  padding-left: 9px;
+}
