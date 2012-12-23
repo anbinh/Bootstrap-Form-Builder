@@ -1,37 +1,12 @@
 #components{
   min-height: 600px;
 }
-#target{
-  min-height: 200px;
-  border: 1px solid #ccc;
-  padding: 5px;
-}
-#target .component{
-  border: 1px solid #fff;
-}
 #temp{
   width: 500px;
   background: white;
   border: 1px dotted #ccc;
   border-radius: 10px;
 }
-
-.popover-content form {
-  margin: 0 auto;
-  width: 213px;
-}
-.popover-content form .btn{
-  margin-right: 10px
-}
-#source{
-  min-height: 500px;
-}
-
-#navtab > li > a {
-  padding-right: 9px;
-  padding-left: 9px;
-}
-
 footer > p {
   text-align: center;
 }
