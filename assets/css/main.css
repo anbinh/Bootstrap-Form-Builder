@@ -35,3 +35,7 @@ body {
   padding-right: 9px;
   padding-left: 9px;
 }
+
+footer > p {
+  text-align: center;
+}
